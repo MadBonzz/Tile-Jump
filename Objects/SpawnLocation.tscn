@@ -1,0 +1,6 @@
+[gd_scene format=2]
+
+[node name="SpawnLocation" type="Node2D"]
+
+[node name="Sprite" type="Sprite" parent="."]
+scale = Vector2( 0.382184, 0.275907 )
